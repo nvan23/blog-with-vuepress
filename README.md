@@ -2,4 +2,6 @@
 home: true
 ---
  
-# Hello VuePress
+# All Posts
+ 
+<all-posts />
