@@ -1,5 +1,6 @@
 module.exports  =  {
   title: 'HeeYee Gaming',
+  dest: 'docs',
   themeConfig: {
     sidebar: 'auto', // Luôn hiển thị sidebar trong bài viết
     // Thiết lập các liên kế trên navbar
@@ -9,7 +10,7 @@ module.exports  =  {
       { text: 'Ehkoo', link: 'https://ehkoo.com' },
     ],
   },
-  description: 'Mô tả về blog',
+  description: 'Kẻ yếu không có quyền được lựa chọn cái chết Laws',
   locales:  {
     '/vi':  {
       lang:  'vi-VN',
